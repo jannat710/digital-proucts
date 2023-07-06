@@ -73,3 +73,55 @@ margin-bottom: 15px;
     text-align: center;
     padding-top: 20px;
 }
+.box{
+    width: 230px;
+    height: 280px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+.icon{
+    width: 70px;
+}
+.box-btn{
+    background-color: gray;
+    margin-top: 10px;
+}
+.box-title{
+    padding: 10px;
+}
+.box-description{
+    padding: 5px;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-image: url("images/background.png"),linear-gradient(45deg,rgb(8,8,8),rgb(53,53,53));
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container1{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 250px;
+    padding: 10px;
+
+}
+.last{
+    width: 300px;
+}
+.bg{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    font-size: 14px;
+    padding-top: 7px;
+}
